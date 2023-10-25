@@ -15,8 +15,8 @@ Create a compressed file containing a malicious php file.I provide Template expl
 Upload the malicious compressed package we created in the website background
 ![image](https://github.com/Maverickfir/emlog-getshell/blob/main/3.png)
 
-It will be decompressed in the directory wwwroot/content/templates/test/info.php
-test is the name of the folder in the compressed package we made, info.php is our malicious php file
+It will be decompressed in the directory /content/templates/test/info.php
+test is the name of the folder in the compressed package we made, shell.php is our malicious php file
 ![image](https://github.com/Maverickfir/emlog-getshell/blob/main/41.png)
 ![image](https://github.com/Maverickfir/emlog-getshell/blob/main/5.png)
 
